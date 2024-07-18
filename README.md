@@ -1,5 +1,5 @@
 # Big-basket-data-extraction
-with this code you can scrap whole valid dataset of products available on website<br>
+with this code you can scrap whole valid dataset of products available on website within minutes<br>
 
 *Raw file:*<br>
 while scrapping if any value is missing then that product is skipped<br>
